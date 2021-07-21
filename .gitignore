@@ -31,6 +31,7 @@ ExportedObj/
 *.csproj
 *.unityproj
 *.suo
+*.aab
 *.tmp
 *.user
 *.userprefs
